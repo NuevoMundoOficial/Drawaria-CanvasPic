@@ -1,0 +1,21 @@
+Aquí tienes un archivo `requirements.txt` para el proyecto **Drawaria CanvasPic**:
+
+```plaintext
+selenium==4.15.2
+pillow==10.1.0
+requests==2.31.0
+```
+
+### Explicación de las dependencias:
+1. **selenium**: Para la automatización del navegador y la interacción con la página web de Drawaria.
+2. **pillow (PIL)**: Para procesar la imagen y extraer los datos de píxeles.
+3. **requests**: Para descargar la imagen desde la URL proporcionada.
+
+### Instalación:
+Guarda el contenido anterior en un archivo llamado `requirements.txt` en la raíz del proyecto. Luego, ejecuta el siguiente comando para instalar las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+¡Y eso es todo! Ahora tendrás todas las dependencias necesarias para ejecutar el script.
