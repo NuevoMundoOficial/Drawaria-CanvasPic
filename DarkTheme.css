@@ -1,5 +1,5 @@
 body {
-    background: url(" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAADElEQVQImWOQlJQCAACbAE0aAYF+AAAAAElFTkSuQmCC") center fixed !important;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAADElEQVQImWOQlJQCAACbAE0aAYF+AAAAAElFTkSuQmCC") center fixed !important;
     background-color: #1d1d1d !important;
     color:  #fff; 
 }
@@ -32,6 +32,7 @@ body {
 .show>.btn-primary.dropdown-toggle:focus {
  box-shadow:0 0 0 .2rem #00847870;
 }
+
 
 .btn-primary.focus,
 .btn-primary:focus {
@@ -1698,4 +1699,4 @@ background: #f5f7ff00;
 
 .input-group-text {
  color:#141415;
-} 
+}
